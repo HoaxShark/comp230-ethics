@@ -1,0 +1,132 @@
+@misc{FactsAndFigures,
+  title={Suicide: facts and figures},
+  url={https://www.samaritans.org/about-us/our-research/facts-and-figures-about-suicide.},
+  author={Samaritans},
+  note={Accesed on 2018-10-05}
+}
+
+@article{gotterbarn2009virtual,
+  title={Virtual decisions: Video game ethics, Just Consequentialism, and ethics on the fly},
+  author={Gotterbarn, Don and Moor, James},
+  journal={ACM SIGCAS Computers and Society},
+  volume={39},
+  number={3},
+  pages={27--42},
+  year={2009},
+  publisher={ACM}
+}
+
+@misc{MentalStatistics,
+  title={MEASURING NATIONAL WELL-BEING: LIFE IN THE UK - OFFICE FOR NATIONAL STATISTICS},
+  url={https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/articles/measuringnationalwellbeing/2016#how-good-is-our-health.},
+  author={Evans, J., Macrory, I., & Randall, C},
+  note={Accesed on 2018-10-05},
+}
+
+@article{messias2011sadness,
+  title={Sadness, suicide, and their association with video game and internet overuse among teens: results from the youth risk behavior survey 2007 and 2009},
+  author={Messias, Erick and Castro, Juan and Saini, Anil and Usman, Manzoor and Peeples, Dale},
+  journal={Suicide and Life-Threatening Behavior},
+  volume={41},
+  number={3},
+  pages={307--315},
+  year={2011},
+  publisher={Wiley Online Library}
+}
+
+@inproceedings{tavinor2007towards,
+  title={Towards an ethics of video gaming},
+  author={Tavinor, Grant},
+  booktitle={Proceedings of the 2007 conference on Future Play},
+  pages={1--8},
+  year={2007},
+  organization={ACM}
+}
+
+@article{anderson1986affect,
+  title={Affect of the game player: Short-term effects of highly and mildly aggressive video games},
+  author={Anderson, Craig A and Ford, Catherine M},
+  journal={Personality and social psychology bulletin},
+  volume={12},
+  number={4},
+  pages={390--402},
+  year={1986},
+  publisher={Sage Publications Sage CA: Thousand Oaks, CA}
+}
+
+@article{mentzoni2011problematic,
+  title={Problematic video game use: estimated prevalence and associations with mental and physical health},
+  author={Mentzoni, Rune Aune and Brunborg, Geir Scott and Molde, Helge and Myrseth, Helga and Skouver{\o}e, Knut Joachim M{\aa}r and Hetland, J{\o}rn and Pallesen, St{\aa}le},
+  journal={Cyberpsychology, behavior, and social networking},
+  volume={14},
+  number={10},
+  pages={591--596},
+  year={2011},
+  publisher={Mary Ann Liebert, Inc. 140 Huguenot Street, 3rd Floor New Rochelle, NY 10801 USA}
+}
+
+@article{neely2017no,
+  title={No player is ideal: why video game designers cannot ethically ignore players' real-world identities},
+  author={Neely, Erica L},
+  journal={ACM SIGCAS Computers and Society},
+  volume={47},
+  number={3},
+  pages={98--111},
+  year={2017},
+  publisher={ACM}
+}
+
+@article{funk2004violence,
+  title={Violence exposure in real-life, video games, television, movies, and the internet: is there desensitization?},
+  author={Funk, Jeanne B and Baldacci, Heidi Bechtoldt and Pasold, Tracie and Baumgardner, Jennifer},
+  journal={Journal of adolescence},
+  volume={27},
+  number={1},
+  pages={23--39},
+  year={2004},
+  publisher={Elsevier}
+}
+
+@inproceedings{scavarelli2014cindr,
+  title={Cindr: A proposed framework for ethical systems in video games},
+  author={Scavarelli, Anthony and Arya, Ali},
+  booktitle={Games Media Entertainment (GEM), 2014 IEEE},
+  pages={1--5},
+  year={2014},
+  organization={IEEE}
+}
+
+@inproceedings{polack2007work,
+  title={Work in progress’ Game development, social responsibility, and teaching},
+  author={Polack-Wahl, Jennifer A},
+  booktitle={Frontiers In Education Conference-Global Engineering: Knowledge Without Borders, Opportunities Without Passports, 2007. FIE'07. 37th Annual},
+  pages={S4H--15},
+  year={2007},
+  organization={IEEE}
+}
+
+@inproceedings{tuijnman2017developing,
+  title={Developing and testing ScrollQuest: A video game targeting rejection sensitivity in adolescents},
+  author={Tuijnman, Anouk and Granic, Isabela and Whitkin, Josh and Engels, Rutger CME},
+  booktitle={Extended Abstracts Publication of the Annual Symposium on Computer-Human Interaction in Play},
+  pages={213--221},
+  year={2017},
+  organization={ACM}
+}
+
+@inproceedings{rusch2012elude,
+  title={Elude: designing depression},
+  author={Rusch, Doris C},
+  booktitle={Proceedings of the International Conference on the Foundations of Digital Games},
+  pages={254--257},
+  year={2012},
+  organization={ACM}
+}
+
+@article{dias2017gamification,
+  title={Gamification and serious games in depression care: A systematic mapping study},
+  author={Dias, Lucas Pfeiffer Salom{\~a}o and Barbosa, Jorge Luis Vict{\'o}ria and Vianna, Henrique Damasceno},
+  journal={Telematics and Informatics},
+  year={2017},
+  publisher={Elsevier}
+}
