@@ -11,4 +11,4 @@ that may be effected by the scene. Another thing it will consider is the lack of
 suicide itself. Should restrictions be put in place to follow more along the lines with other visual media, or would using these chances to
 provide 
 contacts and help be enough? By looking at these issues the paper hopes to outline general guidelines for developers to follow when 
-creating video games portraying suicide and/or depression, with the end goal of improving support for mental illiness.
+creating video games portraying suicide and/or depression, with the end goal of improving support for mental illness.
