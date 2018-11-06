@@ -1,6 +1,6 @@
 # Ethics & Professionalism Essay Proposal
 
-## Should there be set guidelines for video game developers to follow when portraying suicide/depression.
+## Should guidelines be put in place for video game developers to follow when portraying suicide/depression.
 
 Suicide and depression can be a delicate subject with over 6000 suicides taking place last year in the UK and Ireland alone. In 2014 19.7%
 of over 16's in the UK showed symptoms of anxiety or depression. The stigma around mental health issues and suicide still exists, 
